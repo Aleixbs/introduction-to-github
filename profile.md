@@ -1,1 +1,1 @@
-Welcome to my firs github project!
+Welcome to my first github project!
